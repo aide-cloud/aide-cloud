@@ -11,7 +11,7 @@
 <a href="https://space.bilibili.com/40726788">
 <img src="https://img.shields.io/badge/bilibili-40726788-brightgreen?logo=Bilibili" alt="bibili">
 </a>
-<a href="https://space.bilibili.com/40726788">
+<a href="#">
 <img src="https://img.shields.io/badge/email-aidecloud@163.com-brightgreen?logo=Mail.Ru" alt="email">
 </a>
 </p>
