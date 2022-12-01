@@ -6,6 +6,12 @@
 <img src="https://img.shields.io/badge/aide--cloud.cn-%231677ff" alt="aide-cloud.cn">
 </a>
 <a href="https://aide-cloud.github.io/">
-<img src="https://img.shields.io/badge/aide-博客-%2336cfc9" alt="blog">
+<img src="https://img.shields.io/badge/blog-aide--cloud.github.io-brightgreen?logo=Blogger" alt="blog">
+</a>
+<a href="https://space.bilibili.com/40726788">
+<img src="https://img.shields.io/badge/bilibili-40726788-brightgreen?logo=Bilibili" alt="bibili">
+</a>
+<a href="https://space.bilibili.com/40726788">
+<img src="https://img.shields.io/badge/email-aidecloud@163.com-brightgreen?logo=Mail.Ru" alt="email">
 </a>
 </p>
