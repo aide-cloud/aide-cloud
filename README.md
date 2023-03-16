@@ -14,4 +14,7 @@
 <a href="#">
 <img src="https://img.shields.io/badge/email-aidecloud@163.com-brightgreen?logo=Mail.Ru" alt="email">
 </a>
+  <a href="#">
+<img src="https://img.shields.io/badge/email-1058165620@qq.com-brightgreen?logo=Mail.Ru" alt="email">
+</a>
 </p>
