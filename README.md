@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://go-kratos.dev/" target="_blank"><img src="aide-cloud.png?raw=true"></a></p>
+<a href="https://moon.aide-cloud.cn/" target="_blank"><img src="aide-cloud.png?raw=true"></a></p>
 
 <p align="center">
 <a href="https://aide-cloud.cn">
