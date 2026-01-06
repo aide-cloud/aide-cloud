@@ -1,5 +1,10 @@
 <p align="center">
-<a href="https://moon.aide-cloud.cn/" target="_blank"><img src="aide-cloud.png?raw=true"></a></p>
+<a href="https://moon.aide-cloud.cn/" target="_blank">
+<b>
+  热爱可抵岁月漫长，心之所向，便是光。
+</b>  
+</a>
+</p>
 
 <p align="center">
 <a href="https://aide-cloud.cn">
