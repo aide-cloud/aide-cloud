@@ -10,6 +10,9 @@
 <a href="https://aide-cloud.cn">
 <img src="https://img.shields.io/badge/aide--cloud.cn-%231677ff" alt="aide-cloud.cn">
 </a>
+  <a href="https://github.com/aide-family">
+<img src="https://img.shields.io/badge/aide-family-%231677ff" alt="https://github.com/aide-family">
+</a>
 <a href="https://aide-cloud.github.io/">
 <img src="https://img.shields.io/badge/blog-aide--cloud.github.io-brightgreen?logo=Blogger" alt="blog">
 </a>
